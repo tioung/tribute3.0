@@ -36,7 +36,7 @@ header p{
 .main-image{
   padding: 0;
   /* border:1px solid red; */
-  width:80%;
+/*   width:80%; */
   background-color: #FFF;
   margin:4em auto;
 }
